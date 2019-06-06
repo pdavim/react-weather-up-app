@@ -1,11 +1,15 @@
-#Weather Up Read Me
+# Weather Up Read Me
 
-""Start
+## Start
 
 ```
 npm install
 npm start
 ```
 
-Apushttps://www.apixu.com/inges
- https://www.youtube.com/watch?v=cdBvSlVCOXw&t=4757sat uses the 
+App usesAPI from
+https://www.apixu.com/
+to get weather data
+ 
+ See the deploy app
+ https://5cf8c633f6be5df0a3020696--stupefied-mclean-dc49ca.netlify.com/
